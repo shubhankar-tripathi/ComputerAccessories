@@ -1,0 +1,12 @@
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\bin\Debug\ComputerAccessories.exe.config
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\bin\Debug\ComputerAccessories.exe
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\bin\Debug\ComputerAccessories.pdb
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.Category.resources
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.StoreItemMaintenance.resources
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.SubCategory.resources
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.Properties.Resources.resources
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.csproj.GenerateResource.Cache
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.exe
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.pdb
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.ComputerAccessoriesStore.resources
+C:\Users\shubh\Documents\Visual Studio 2015\Projects\ComputerAccessories\ComputerAccessories\obj\Debug\ComputerAccessories.csprojResolveAssemblyReference.cache
